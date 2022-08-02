@@ -34,8 +34,9 @@
 <a href="https://www.linkedin.com/in/Dani-Soler" alt="linkedin"><img align="center" src="./linkedin.png" height="70" width="70" /></a>
 
 <a href="https://wa.link/qmvfum" alt="whatsapp"><img align="center" src="./whatsapp.png" height="70" width="70" /></a>
+ 
 
-<a href="https://t.me/DaniSoler" alt="telegram"><img align="center" src="./telegram.png" height="70" width="70" /></a>
+<a href="https://t.me/DaniSoler" alt="telegram"><img align="center" src="./telegram.png" height="80" width="60" /></a>
 
 <a>Email: danisoler463@gmail.com </a>
  </p> 
