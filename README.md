@@ -31,9 +31,9 @@
  <p align="center"> 
 
 
-<a href="https://www.linkedin.com/in/Dani-Soler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Dani-Soler" target="blank"><img align="center" src="./linkedin.png" height="70" width="70" /></a>
 
-<a href="https://wa.link/qmvfum" alt="whatsapp">Whatsapp</a>
+<a href="https://wa.link/qmvfum" alt="whatsapp"><img align="center" src="./whatsapp.png" height="70" width="70" /></a>
 
 <a>Email: danisoler463@gmail.com </a>
  </p> 
